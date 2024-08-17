@@ -29,12 +29,14 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
+  <br/>
   <a herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c++,javascript,typescript,sql">
-     <img src="https://skillicons.dev/icons?i=react,springboot,django,html,css,tailwind,mui,bootstrap,vscode, git, github,mysql,oracle,chatjs">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript">
+    <img src="https://skillicons.dev/icons?i=react,redux,spring,django,html,css,tailwind,mui,bootstrap,chatjs">
+    <img src="https://skillicons.dev/icons?i=vscode,git, github,mysql,linux,postman,npm">
   </a>
 </div>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehzad78675&show_icons=true&locale=en&layout=compact" alt="shehzad78675" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&locale=en" alt="shehzad78675" /></p>
