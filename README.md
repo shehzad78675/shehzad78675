@@ -43,7 +43,7 @@
 <p align="center">
   <br/>
   <a herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git, github,mysql,linux,postman,npm">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux,postman,npm">
   </a>
 </p>
 <br/>
