@@ -41,8 +41,11 @@
 <hr/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehzad78675&show_icons=true&locale=en&layout=compact" alt="shehzad78675" /></p>
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=shehzad78675&show_icons=true&locale=en&layout=compact" alt="shehzad78675" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&locale=en" alt="shehzad78675" /></p>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&locale=en" alt="shehzad78675" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehzad78675&" alt="shehzad78675" /></p>
+<img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=shehzad78675&" alt="shehzad78675" />
+</div>
+
