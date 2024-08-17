@@ -30,7 +30,7 @@
 
 <div align="center">
   <a herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cplusplus,javascript,typescript,sql">
+    <img src="https://skillicons.dev/icons?i=python,java,c++,javascript,typescript,sql">
      <img src="https://skillicons.dev/icons?i=react,springboot,django,html,css,tailwind,mui,bootstrap,vscode, git, github,mysql,oracle,chatjs">
   </a>
 </div>
