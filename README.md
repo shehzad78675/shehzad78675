@@ -20,6 +20,7 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 
+<p display="flex">
 <a herf="mailto:shmskp786@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail">
   </a>
