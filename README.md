@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shehzad Muhammad</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shehzad+Muhammad!;">
+  </a>
+</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="./1709786464317.gif">
