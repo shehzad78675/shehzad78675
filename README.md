@@ -20,13 +20,11 @@
 <hr/>
 <h3 align="left">Connect with me:</h3>
 
-<div display="flex" justify-content="center">
-<a herf="mailto:shmskp786@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail">
-  </a>
+<p align="left">
+
 <a href="https://linkedin.com/in/shehzad-muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehzad-muhammad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shehzadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shehzadm" height="30" width="40" /></a>
-</div>
+</p>
 
 <hr/>
 
