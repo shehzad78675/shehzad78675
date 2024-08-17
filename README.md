@@ -34,13 +34,17 @@
   <br/>
   <a herf="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript">
-    <img src="https://skillicons.dev/icons?i=react,redux,spring,django,html,css,tailwind,mui,bootstrap,chatjs">
+    <img src="https://skillicons.dev/icons?i=react,redux,spring,django,html,css,tailwind,mui,bootstrap">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,linux,postman,npm">
   </a>
 </p>
 <hr/>
-
 <br/>
+
+<div align="center">
+  <h2>🚀My Contributions🚀</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sales07/output/github-contribution-grid-snake.svg">
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehzad78675&show_icons=true&locale=en&layout=compact" alt="shehzad78675" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&locale=en" alt="shehzad78675" /></p>
