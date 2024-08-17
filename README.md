@@ -41,11 +41,6 @@
 <hr/>
 <br/>
 
-<div align="center">
-  <h2>🚀My Contributions🚀</h2>
-  <img alt="snake eating my contributions" src="https://github.com/shehzad78675/shehzad78675/blob/output/github-contribution-grid-snake2.svg">
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shehzad78675/shehzad78675/output/github-contribution-grid-snake.svg"> -->
-</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shehzad78675&show_icons=true&locale=en&layout=compact" alt="shehzad78675" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&locale=en" alt="shehzad78675" /></p>
