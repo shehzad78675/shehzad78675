@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehzad78675&label=Profile%20views&color=0e75b6&style=flat" alt="shehzad78675" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Generative AI**
+- 🌱 I’m currently learning **Machine Learning and Applied Generative AI**
 
 - 💬 Ask me about **react, spring boot, java, javascript, typescript**
 
