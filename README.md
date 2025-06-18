@@ -40,7 +40,7 @@
 </div>
 
 
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" width="380" alt="Coding Animation" />
+<img align="right" src="1709786464317.gif" width="380" alt="Coding Animation" />
 
 - 🔭 Currently working on **microservices architecture and AI-powered applications**  
 - 🌱 Exploring Machine Learning and Applied Generative AI  
