@@ -54,10 +54,11 @@
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="./1709786464317.gif" alt="Coding Animation" width="380" />
+    <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="Coding Animation" width="380" />
   </div>
 
 </div>
+
 
 💼 Professional Overview I'm a dedicated Software Engineer and DSA Instructor
 specializing in microservices architecture and modern web development. With
