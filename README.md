@@ -54,140 +54,144 @@
 
 <hr>
 
-💼 Professional Overview I'm a dedicated Software Engineer and DSA Instructor
-specializing in microservices architecture and modern web development. With
-expertise in Spring Boot, React.js, and cloud technologies, I build
-enterprise-grade, scalable applications while mentoring the next generation of
-developers. 🎯 Current Focus 🏗️ Architecting microservices with Spring Boot,
-Docker & Kubernetes 👨‍🏫 Teaching DSA concepts and technical interview preparation
-☁️ Building event-driven architectures with RabbitMQ messaging 🔐 Implementing
-OAuth2 & JWT authentication systems 🧠 Expanding knowledge in Machine Learning
-and Applied AI 💡 What I Do Microservices Development: Designing scalable,
-distributed systems with Spring Boot Full-Stack Development: Building modern web
-apps with React.js and Spring Boot System Architecture: Implementing service
-discovery, API gateways, and load balancing Technical Education: Teaching DSA,
-algorithms, and problem-solving techniques DevOps & Deployment: Containerization
-with Docker and orchestration with Kubernetes API Development: Creating robust
-RESTful services with comprehensive documentation 🛠️ Technology Stack
+<h2 align="center">💼 Professional Overview</h2>
 
-<hr> 
+<p align="center">
+I'm a dedicated Software Engineer and DSA Instructor specializing in microservices architecture and modern web development. With expertise in Spring Boot, React.js, and cloud technologies, I build enterprise-grade, scalable applications while mentoring the next generation of developers.
+</p>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+- 🏗️ Architecting microservices with Spring Boot, Docker & Kubernetes  
+- 👨‍🏫 Teaching DSA concepts and technical interview preparation  
+- ☁️ Building event-driven architectures with RabbitMQ messaging  
+- 🔐 Implementing OAuth2 & JWT authentication systems  
+- 🧠 Expanding knowledge in Machine Learning and Applied AI  
+
+---
+
+<h2 align="center">💡 What I Do</h2>
+
+- **Microservices Development**: Designing scalable, distributed systems with Spring Boot  
+- **Full-Stack Development**: Building modern web apps with React.js and Spring Boot  
+- **System Architecture**: Implementing service discovery, API gateways, and load balancing  
+- **Technical Education**: Teaching DSA, algorithms, and problem-solving techniques  
+- **DevOps & Deployment**: Containerization with Docker and orchestration with Kubernetes  
+- **API Development**: Creating robust RESTful services with comprehensive documentation  
+
+---
+
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<hr>
 
 <div align="center">
-  Programming Languages
+  <strong>Programming Languages</strong>
   <p>
-    <img
-      src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp"
-    />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,cpp" />
   </p>
-  Backend & Microservices
+  <strong>Backend & Microservices</strong>
   <p>
     <img src="https://skillicons.dev/icons?i=spring,django,hibernate" />
-    <img
-      src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   </p>
-  Frontend Technologies
+  <strong>Frontend Technologies</strong>
   <p>
-    <img
-      src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,mui,bootstrap"
-    />
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,mui,bootstrap" />
   </p>
-  Databases & Storage
-  <p><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /></p>
-  DevOps & Cloud
+  <strong>Databases & Storage</strong>
   <p>
-    <img
-      src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux"
-    />
-    <img
-      src="https://img.shields.io/badge/Eureka-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
-    />
-    <img
-      src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
-    />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
   </p>
-  Development Tools
-  <p><img src="https://skillicons.dev/icons?i=vscode,idea,postman,npm" /></p>
+  <strong>DevOps & Cloud</strong>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
+    <img src="https://img.shields.io/badge/Eureka-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  </p>
+  <strong>Development Tools</strong>
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,npm" />
+  </p>
 </div>
 
 <hr>
 
-🚀 Professional Experience & Expertise 💻 Core Technical Skills Microservices
-Architecture: Spring Boot, Eureka, OpenFeign, API Gateway Message Queuing:
-RabbitMQ, event-driven architecture patterns Containerization: Docker, Docker
-Compose, Kubernetes orchestration Database Design: Multi-database architectures
-(SQL & NoSQL) Authentication: OAuth2, JWT, Keycloak integration Monitoring:
-Zipkin, Micrometer, Spring Boot Actuator 🎓 Teaching & Mentoring DSA
-Instruction: Arrays, trees, graphs, dynamic programming Live Problem Solving:
-LeetCode sessions with complexity analysis Interview Preparation: Technical
-interview strategies and debugging Algorithm Design: Step-by-step approach to
-problem-solving 🔧 Development Methodologies Clean Architecture: SOLID
-principles and design patterns Test-Driven Development: Unit testing and
-integration testing CI/CD Pipelines: Automated deployment and testing workflows
-Code Review: Best practices and collaborative development 📊 GitHub Analytics
+<h2 align="center">🚀 Professional Experience & Expertise</h2>
+
+<strong>💻 Core Technical Skills</strong>  
+- Microservices Architecture: Spring Boot, Eureka, OpenFeign, API Gateway  
+- Message Queuing: RabbitMQ, event-driven architecture patterns  
+- Containerization: Docker, Docker Compose, Kubernetes orchestration  
+- Database Design: Multi-database architectures (SQL & NoSQL)  
+- Authentication: OAuth2, JWT, Keycloak integration  
+- Monitoring: Zipkin, Micrometer, Spring Boot Actuator  
+
+<strong>🎓 Teaching & Mentoring</strong>  
+- DSA Instruction: Arrays, trees, graphs, dynamic programming  
+- Live Problem Solving: LeetCode sessions with complexity analysis  
+- Interview Preparation: Technical interview strategies and debugging  
+- Algorithm Design: Step-by-step approach to problem-solving  
+
+<strong>🔧 Development Methodologies</strong>  
+- Clean Architecture: SOLID principles and design patterns  
+- Test-Driven Development: Unit testing and integration testing  
+- CI/CD Pipelines: Automated deployment and testing workflows  
+- Code Review: Best practices and collaborative development  
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzad78675&layout=compact&langs_count=10&theme=radical&hide_border=true"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shehzad78675&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehzad78675&layout=compact&langs_count=10&theme=radical&hide_border=true" />
 </div>
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shehzad78675&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehzad78675&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+<h2 align="center">💬 Let's Connect & Collaborate</h2>
+
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=shehzad78675&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"
-  />
+  I'm always excited to discuss:  
+  🏗️ Microservices architecture and design patterns  
+  🚀 Spring Boot best practices and advanced features  
+  📊 Data structures, algorithms, and optimization techniques  
+  ☁️ Cloud-native development and containerization  
+  🔧 System design and scalability challenges  
+  👨‍🏫 Technical education and mentoring strategies  
 </div>
-💬 Let's Connect & Collaborate
-<div align="center">
-  I'm always excited to discuss: 🏗️ Microservices architecture and design
-  patterns 🚀 Spring Boot best practices and advanced features 📊 Data
-  structures, algorithms, and optimization techniques ☁️ Cloud-native
-  development and containerization 🔧 System design and scalability challenges
-  👨‍🏫 Technical education and mentoring strategies
-</div>
-📫 Get In Touch
+
+---
+
+<h2 align="center">📫 Get In Touch</h2>
+
 <p align="center">
   <a href="mailto:shmskp786@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/shehzad-muhammad" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.leetcode.com/shehzadm" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      alt="LeetCode"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://github.com/shehzad78675" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-🏆 Key Achievements
+
+---
+
+<h2 align="center">🏆 Key Achievements</h2>
+
 <div align="center">
   <table>
     <tr>
@@ -196,40 +200,29 @@ Code Review: Best practices and collaborative development 📊 GitHub Analytics
     </tr>
     <tr>
       <td align="center">👨‍🏫</td>
-      <td>
-        <strong>DSA Instructor</strong><br />Teaching algorithms &
-        problem-solving
-      </td>
+      <td><strong>DSA Instructor</strong><br />Teaching algorithms & problem-solving</td>
     </tr>
     <tr>
       <td align="center">🏗️</td>
-      <td>
-        <strong>Microservices Expert</strong><br />Spring Boot, Docker,
-        Kubernetes
-      </td>
+      <td><strong>Microservices Expert</strong><br />Spring Boot, Docker, Kubernetes</td>
     </tr>
     <tr>
       <td align="center">💻</td>
-      <td>
-        <strong>Full-Stack Developer</strong><br />React.js, Spring Boot,
-        databases
-      </td>
+      <td><strong>Full-Stack Developer</strong><br />React.js, Spring Boot, databases</td>
     </tr>
   </table>
 </div>
+
+---
+
+<h2 align="center">⚡ Philosophy</h2>
+
 <div align="center">
-  <h3>⚡ Philosophy</h3>
   <p>
-    <em
-      >"Code is poetry written in logic. I craft microservices by day, teach
-      algorithms by evening, and dream in distributed systems by night. Every
-      line of code is a step toward building something extraordinary."</em
-    >
+    <em>"Code is poetry written in logic. I craft microservices by day, teach algorithms by evening, and dream in distributed systems by night. Every line of code is a step toward building something extraordinary."</em>
   </p>
 </div>
+
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
