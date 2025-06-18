@@ -22,6 +22,7 @@
     >
   </p>
 </div>
+<hr>
 <div>
     <p align="left">
         <img
