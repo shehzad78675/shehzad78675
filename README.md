@@ -146,7 +146,6 @@ I'm a dedicated Software Engineer and DSA Instructor specializing in microservic
 
 <h2 align="center">💬 Let's Connect & Collaborate</h2>
 
-<div align="center">
   I'm always excited to discuss:  
   🏗️ Microservices architecture and design patterns  
   🚀 Spring Boot best practices and advanced features  
@@ -154,7 +153,6 @@ I'm a dedicated Software Engineer and DSA Instructor specializing in microservic
   ☁️ Cloud-native development and containerization  
   🔧 System design and scalability challenges  
   👨‍🏫 Technical education and mentoring strategies  
-</div>
 
 ---
 
