@@ -1,4 +1,5 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/> </div> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+There!+👋;I'm+Shehzad+Muhammad!;Software+Engineer+%7C+DSA+Instructor;Microservices+Architect;Building+Scalable+Solutions" /> </a> </div> <div align="center"> <h3>🚀 Passionate Software Engineer | Microservices Expert | DSA Instructor</h3> <p><em>Crafting scalable microservices and teaching algorithms from Pakistan 🇵🇰</em></p> </div> <div style="display: flex; align-items: flex-start; justify-content: space-between;"> <div style="flex: 1; padding-right: 20px;"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehzad78675&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/shehzad78675?label=Followers&style=for-the-badge&color=blue" alt="Followers" /> <img src="https://img.shields.io/badge/Focus-Microservices-brightgreen?style=for-the-badge" alt="Focus" /> </p>
+  </div>
 - 🔭 Currently working on **microservices architecture and AI-powered applications**
 - 🌱 Exploring **Machine Learning and Applied Generative AI**
 - 👨‍🏫 Teaching **Data Structures & Algorithms** at iCodeGuru
@@ -7,7 +8,7 @@
 - 🎓 **BS Software Engineering** graduate with 3.31 CGPA
 - 📫 Reach me at **shmskp786@gmail.com**
 - ⚡ Fun fact: **I code by day, teach algorithms by evening, and learn new tech by night!**
-<img alt="Coding Animation" width="380" src="./1709786464317.gif">
+ <div style="flex: 0 0 auto;"> <img alt="Coding Animation" width="380" src="./1709786464317.gif"> </div> </div>
 💼 Professional Overview
 I'm a dedicated Software Engineer and DSA Instructor specializing in microservices architecture and modern web development. With expertise in Spring Boot, React.js, and cloud technologies, I build enterprise-grade, scalable applications while mentoring the next generation of developers.
 
