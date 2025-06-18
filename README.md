@@ -38,9 +38,9 @@
         />
       </p>
 </div>
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
-  <div style="flex: 1; width:200;">
+
+<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" width="380" alt="Coding Animation" />
 
 - 🔭 Currently working on **microservices architecture and AI-powered applications**  
 - 🌱 Exploring Machine Learning and Applied Generative AI  
@@ -51,13 +51,6 @@
 - 📫 Reach me at shmskp786@gmail.com  
 - ⚡ Fun fact: **I code by day, teach algorithms by evening, and learn new tech by night!**
 
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="Coding Animation" width="200" />
-  </div>
-
-</div>
 
 
 💼 Professional Overview I'm a dedicated Software Engineer and DSA Instructor
