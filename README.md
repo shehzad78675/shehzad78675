@@ -74,8 +74,6 @@ I'm a dedicated Software Engineer and DSA Instructor specializing in microservic
 
 <h2 align="center">🛠️ Technology Stack</h2>
 
-<hr>
-
 <div align="center">
   <strong>Programming Languages</strong>
   <p>
