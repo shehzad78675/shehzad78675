@@ -54,7 +54,7 @@
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="Coding Animation" width="300" />
+    <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="Coding Animation" width="200" />
   </div>
 
 </div>
