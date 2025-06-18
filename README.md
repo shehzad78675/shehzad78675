@@ -40,6 +40,12 @@
       </p>
 </div>
 
+<h2 align="center">💼 Professional Overview</h2>
+
+<p>
+I'm a dedicated Software Engineer and DSA Instructor specializing in microservices architecture and modern web development. With expertise in Spring Boot, React.js, and cloud technologies, I build enterprise-grade, scalable applications while mentoring the next generation of developers.
+</p>
+
 
 <img align="right" src="1709786464317.gif" width="380" alt="Coding Animation" />
 
