@@ -38,24 +38,27 @@
         />
       </p>
 </div>
-<!-- <div
-  style="display: flex; align-items: flex-start; justify-content: space-between"
->
-  <div style="flex: 1; padding-right: 20px"> -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
-    - 🔭 Currently working on **microservices architecture and AI-powered
-    applications** - 🌱 Exploring **Machine Learning and Applied Generative AI**
-    - 👨‍🏫 Teaching **Data Structures & Algorithms** at iCodeGuru - 💼 Expert in
-    **Spring Boot, React.js, Docker, Kubernetes, RabbitMQ** - 💬 Ask me about
-    **Microservices, Spring Boot, React, Java, System Design** - 🎓 **BS
-    Software Engineering** graduate with 3.31 CGPA - 📫 Reach me at
-    **shmskp786@gmail.com** - ⚡ Fun fact: **I code by day, teach algorithms by
-    evening, and learn new tech by night!**
- <!-- </div>
-  <div style="flex: 0 0 auto"> -->
-    <img alt="Coding Animation" width="380" src="./1709786464317.gif" />
-<!--  </div>
-</div> -->
+  <div style="flex: 1;">
+
+- 🔭 Currently working on **microservices architecture and AI-powered applications**  
+- 🌱 Exploring Machine Learning and Applied Generative AI  
+- 👨‍🏫 Teaching Data Structures & Algorithms at iCodeGuru  
+- 💼 Expert in Spring Boot, React.js, Docker, Kubernetes, RabbitMQ  
+- 💬 Ask me about Microservices, Spring Boot, React, Java, System Design  
+- 🎓 **BS Software Engineering** graduate with 3.31 CGPA  
+- 📫 Reach me at shmskp786@gmail.com  
+- ⚡ Fun fact: **I code by day, teach algorithms by evening, and learn new tech by night!**
+
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="./1709786464317.gif" alt="Coding Animation" width="380" />
+  </div>
+
+</div>
+
 💼 Professional Overview I'm a dedicated Software Engineer and DSA Instructor
 specializing in microservices architecture and modern web development. With
 expertise in Spring Boot, React.js, and cloud technologies, I build
