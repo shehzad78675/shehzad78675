@@ -40,7 +40,7 @@
 </div>
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
-  <div style="flex: 1;">
+  <div style="flex: 1; width:300px;">
 
 - 🔭 Currently working on **microservices architecture and AI-powered applications**  
 - 🌱 Exploring Machine Learning and Applied Generative AI  
