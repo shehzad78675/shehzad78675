@@ -52,7 +52,7 @@
 - 📫 Reach me at shmskp786@gmail.com  
 - ⚡ Fun fact: **I code by day, teach algorithms by evening, and learn new tech by night!**
 
-
+<hr>
 
 💼 Professional Overview I'm a dedicated Software Engineer and DSA Instructor
 specializing in microservices architecture and modern web development. With
@@ -69,6 +69,9 @@ discovery, API gateways, and load balancing Technical Education: Teaching DSA,
 algorithms, and problem-solving techniques DevOps & Deployment: Containerization
 with Docker and orchestration with Kubernetes API Development: Creating robust
 RESTful services with comprehensive documentation 🛠️ Technology Stack
+
+<hr> 
+
 <div align="center">
   Programming Languages
   <p>
@@ -112,6 +115,9 @@ RESTful services with comprehensive documentation 🛠️ Technology Stack
   Development Tools
   <p><img src="https://skillicons.dev/icons?i=vscode,idea,postman,npm" /></p>
 </div>
+
+<hr>
+
 🚀 Professional Experience & Expertise 💻 Core Technical Skills Microservices
 Architecture: Spring Boot, Eureka, OpenFeign, API Gateway Message Queuing:
 RabbitMQ, event-driven architecture patterns Containerization: Docker, Docker
