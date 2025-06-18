@@ -40,13 +40,6 @@
       </p>
 </div>
 
-<h2 align="center">💼 Professional Overview</h2>
-
-<p>
-I'm a dedicated Software Engineer and DSA Instructor specializing in microservices architecture and modern web development. With expertise in Spring Boot, React.js, and cloud technologies, I build enterprise-grade, scalable applications while mentoring the next generation of developers.
-</p>
-
-
 <img align="right" src="1709786464317.gif" width="380" alt="Coding Animation" />
 
 - 🔭 Currently working on **microservices architecture and AI-powered applications**  
@@ -65,16 +58,6 @@ I'm a dedicated Software Engineer and DSA Instructor specializing in microservic
 <p align="center">
 I'm a dedicated Software Engineer and DSA Instructor specializing in microservices architecture and modern web development. With expertise in Spring Boot, React.js, and cloud technologies, I build enterprise-grade, scalable applications while mentoring the next generation of developers.
 </p>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-- 🏗️ Architecting microservices with Spring Boot, Docker & Kubernetes  
-- 👨‍🏫 Teaching DSA concepts and technical interview preparation  
-- ☁️ Building event-driven architectures with RabbitMQ messaging  
-- 🔐 Implementing OAuth2 & JWT authentication systems  
-- 🧠 Expanding knowledge in Machine Learning and Applied AI  
 
 ---
 
